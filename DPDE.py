@@ -238,7 +238,7 @@ class DPDE:
 
 
         # Comprehensive weight matrix (dynamically adjust alpha)
-        beta  = 0.5
+        beta  = self.beta
         matrix = beta  * weight_diversity + (1 - beta ) * weight_similarity
 
         matrix = (matrix - np.min(matrix)) / (np.max(matrix) - np.min(matrix))
