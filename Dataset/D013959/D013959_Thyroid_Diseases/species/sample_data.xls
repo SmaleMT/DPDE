@@ -1,0 +1,264 @@
+#SampleID	Project.ID	Experiment.type	Nr..reads.sequenced	Country	Sex	Host.age	BMI	Recent.antibiotics.use	Disease.MESH.ID	Disease.name	QC.status
+ERR2238616	PRJEB11419	Metagenomics	87181	Australia	Female	56	26.67		D013959	1	1
+ERR2238618	PRJEB11419	Metagenomics	1049852	Australia	Female	56	26.67		D013959	1	1
+ERR2238626	PRJEB11419	Metagenomics	112299	United States of America	Male	59	23.53		D006262	1	1
+ERR2238632	PRJEB11419	Metagenomics	1436965	United Kingdom	Female	31	19.32		D006262	1	1
+ERR2238634	PRJEB11419	Metagenomics	1599635	United Kingdom	Male	45	16.71		D006262	1	1
+ERR2238647	PRJEB11419	Metagenomics	21967	United Kingdom	Male	45	26.87		D006262	1	1
+ERR2238648	PRJEB11419	Metagenomics	1272949	Australia	Male	72	25.48		D006262	1	1
+ERR2238665	PRJEB11419	Metagenomics	1042456	United Kingdom	Female	66	26.21		D006262	1	1
+ERR2238674	PRJEB11419	Metagenomics	163885	United Kingdom	Female	58	17.68		D013959	1	1
+ERR2238676	PRJEB11419	Metagenomics	2147098	Germany	Male	32	22.72		D006262	1	1
+ERR2238687	PRJEB11419	Metagenomics	127958	United Kingdom	Female	37	23.24		D006262	1	1
+ERR2238695	PRJEB11419	Metagenomics	14919	United States of America	Female	29	21.97		D006262	1	1
+ERR2238705	PRJEB11419	Metagenomics	1145223	United Kingdom	Female	64	19.47		D006262	1	1
+ERR2238712	PRJEB11419	Metagenomics	1152552	Sweden	Male	35	22.64		D006262	1	1
+ERR2238715	PRJEB11419	Metagenomics	1044613	United States of America	Female	28	18.48		D006262	1	1
+ERR2238721	PRJEB11419	Metagenomics	728426	United States of America	Male	31	23.29		D006262	1	1
+ERR2238738	PRJEB11419	Metagenomics	486414	United States of America	Female	23	22.86		D006262	1	1
+ERR2238745	PRJEB11419	Metagenomics	29991	United States of America	Male	24	20.54		D006262	1	1
+ERR2238748	PRJEB11419	Metagenomics	341129	United States of America	Female	50	22.24		D006262	1	1
+ERR2238754	PRJEB11419	Metagenomics	1355102	United States of America	Male	25	22.24		D006262	1	1
+ERR2238756	PRJEB11419	Metagenomics	941403	United States of America	Female	27	18.37		D006262	1	1
+ERR2238757	PRJEB11419	Metagenomics	95104	United States of America	Male	34	21.68		D006262	1	1
+ERR2239105	PRJEB11419	Metagenomics	1254897	United States of America	Female	59	20.07		D013959	1	5
+ERR2239132	PRJEB11419	Metagenomics	2125660	Canada	Female	45	20.94		D006262	1	1
+ERR2239172	PRJEB11419	Metagenomics	1357970	United Kingdom	Male	45	23.15		D006262	1	1
+ERR2239187	PRJEB11419	Metagenomics	1216549	United States of America	Female	39	23.71		D013959	1	2
+ERR2239189	PRJEB11419	Metagenomics	1551733	United States of America	Female	48	33.27		D013959	1	2
+ERR2239190	PRJEB11419	Metagenomics	23796	United States of America	Female	64	23.44		D013959	1	2
+ERR2239204	PRJEB11419	Metagenomics	1481648	United States of America	Female	33	22.41		D013959	1	3
+ERR2239212	PRJEB11419	Metagenomics	1119673	United Kingdom	Male	45	22.23		D006262	1	1
+ERR2239217	PRJEB11419	Metagenomics	27280	United States of America	Male	37	24.41		D006262	1	1
+ERR2239222	PRJEB11419	Metagenomics	724967	United States of America	Female	63	24.63		D006262	1	1
+ERR2239227	PRJEB11419	Metagenomics	933685	United States of America	Female	59	24.21		D006262	1	1
+ERR2239229	PRJEB11419	Metagenomics	1366549	United States of America	Female	60	21.79		D013959	1	1
+ERR2239230	PRJEB11419	Metagenomics	1211777	United States of America	Male	34	18.99		D006262	1	1
+ERR2239231	PRJEB11419	Metagenomics	1286912	United States of America	Male	48	25.4		D006262	1	1
+ERR2239233	PRJEB11419	Metagenomics	1127413	United States of America	Female	55	25.61		D013959	1	3
+ERR2239235	PRJEB11419	Metagenomics	615122	United States of America	Male	37	21.41		D006262	1	1
+ERR2239236	PRJEB11419	Metagenomics	2887079	United States of America	Male	28	26.37		D006262	1	1
+ERR2239237	PRJEB11419	Metagenomics	2036503	United States of America	Female	22	23.03		D006262	1	1
+ERR2239243	PRJEB11419	Metagenomics	715322	United States of America	Female	61	23.4		D013959	1	2
+ERR2239245	PRJEB11419	Metagenomics	982601	United States of America	Male	59	24.37		D006262	1	1
+ERR2239246	PRJEB11419	Metagenomics	1011738	United States of America	Male	35	22.71		D006262	1	1
+ERR2239247	PRJEB11419	Metagenomics	1252109	United Kingdom	Female	35	22.03		D006262	1	1
+ERR2239250	PRJEB11419	Metagenomics	841804	United Kingdom	Female	68	22.96		D013959	1	4
+ERR2239251	PRJEB11419	Metagenomics	49719	United Kingdom	Male	64	25.54		D006262	1	1
+ERR2239253	PRJEB11419	Metagenomics	1076907	United Kingdom	Female	62	22.39		D013959	1	4
+ERR2239254	PRJEB11419	Metagenomics	670798	United States of America	Male	62	22.15		D013959	1	5
+ERR2239259	PRJEB11419	Metagenomics	487867	United States of America	Female	39	21.41		D013959	1	2
+ERR2239270	PRJEB11419	Metagenomics	945649	United Kingdom	Male	53	29.42		D006262	1	1
+ERR2239271	PRJEB11419	Metagenomics	802204	United Kingdom	Female	66	21.97		D006262	1	1
+ERR2239272	PRJEB11419	Metagenomics	1304420	United Kingdom	Female	59	21.63		D013959	1	2
+ERR2239273	PRJEB11419	Metagenomics	1040930	United Kingdom	Female	67	29.38		D006262	1	1
+ERR2239274	PRJEB11419	Metagenomics	2249659	United Kingdom	Female	68	20.11		D013959	1	3
+ERR2239275	PRJEB11419	Metagenomics	1311919	United Kingdom	Male	51	29.86		D006262	1	1
+ERR2239284	PRJEB11419	Metagenomics	1600221	United Kingdom	Female	50	28.2		D013959	1	3
+ERR2239291	PRJEB11419	Metagenomics	1514185	United States of America	Male	64	24.21		D006262	1	1
+ERR2239293	PRJEB11419	Metagenomics	440541	United States of America	Male	59	23.02		D006262	1	1
+ERR2239294	PRJEB11419	Metagenomics	1327972	United States of America	Male	64	20.67		D006262	1	1
+ERR2239299	PRJEB11419	Metagenomics	1505254	United States of America	Female	58	21.58		D013959	1	6
+ERR2239303	PRJEB11419	Metagenomics	2315293	United States of America	Male	33	25.84		D006262	1	1
+ERR2239305	PRJEB11419	Metagenomics	2712073	United States of America	Female	46	21.47		D013959	1	2
+ERR2239306	PRJEB11419	Metagenomics	1185118	Norway	Female	37	24.91		D013959	1	4
+ERR2239309	PRJEB11419	Metagenomics	233783	United States of America	Female	66	19.8		D013959	1	6
+ERR2239312	PRJEB11419	Metagenomics	1539904	United States of America	Male	47	25.37		D006262	1	1
+ERR2239317	PRJEB11419	Metagenomics	699179	United Kingdom	Male	48	23.81		D006262	1	1
+ERR2239318	PRJEB11419	Metagenomics	461244	United Kingdom	Female	31	19.32		D006262	1	1
+ERR2239320	PRJEB11419	Metagenomics	1144478	United Kingdom	Male	45	16.71		D006262	1	1
+ERR2239330	PRJEB11419	Metagenomics	1280410	United Kingdom	Male	63	25.25		D006262	1	1
+ERR2239331	PRJEB11419	Metagenomics	1473843	United Kingdom	Female	72	24.61		D006262	1	1
+ERR2239332	PRJEB11419	Metagenomics	1293438	United Kingdom	Female	58	20.44		D013959	1	2
+ERR2239335	PRJEB11419	Metagenomics	45432	United Kingdom	Female	61	26.29		D013959	1	5
+ERR2239339	PRJEB11419	Metagenomics	1529348	United Kingdom	Male	45	26.87		D006262	1	1
+ERR2239340	PRJEB11419	Metagenomics	623427	United Kingdom	Male	31	21.47		D006262	1	1
+ERR2239352	PRJEB11419	Metagenomics	957290	United Kingdom	Male	0	15.01		D006262	1	1
+ERR2239353	PRJEB11419	Metagenomics	1120051	United Kingdom	Female	63	23.71		D013959	1	1
+ERR2239358	PRJEB11419	Metagenomics	1229028	United Kingdom	Male	54	25.38		D006262	1	1
+ERR2239368	PRJEB11419	Metagenomics	845209	United Kingdom	Female	34	18.56		D013959	1	1
+ERR2239371	PRJEB11419	Metagenomics	853551	United Kingdom	Female	58	17.68		D013959	1	1
+ERR2239372	PRJEB11419	Metagenomics	1009348	Germany	Female	35	20.8		D013959	1	4
+ERR2239373	PRJEB11419	Metagenomics	1057663	Germany	Male	32	22.72		D006262	1	1
+ERR2239383	PRJEB11419	Metagenomics	24417	United Kingdom	Female	37	23.24		D006262	1	1
+ERR2239385	PRJEB11419	Metagenomics	28412	United Kingdom	Male	10	21.6		D006262	1	1
+ERR2239388	PRJEB11419	Metagenomics	869273	United Kingdom	Male	65	29.32		D006262	1	1
+ERR2239390	PRJEB11419	Metagenomics	25855	United Kingdom	Female	28	23.84		D006262	1	1
+ERR2239395	PRJEB11419	Metagenomics	894892	United Kingdom	Male	43	26.97		D006262	1	1
+ERR2239396	PRJEB11419	Metagenomics	1017388	United Kingdom	Female	64	19.47		D006262	1	1
+ERR2239402	PRJEB11419	Metagenomics	64382	Sweden	Male	35	22.64		D006262	1	1
+ERR2239443	PRJEB11419	Metagenomics	702472	United States of America	Female	37	22.27		D006262	1	1
+ERR2239460	PRJEB11419	Metagenomics	1037902	United States of America	Female	43	27.55		D013959	1	1
+ERR2239509	PRJEB11419	Metagenomics	1417122	United States of America	Male	68	24.78		D006262	1	1
+ERR2239514	PRJEB11419	Metagenomics	790077	United States of America	Female	56	24.09		D006262	1	1
+ERR2239532	PRJEB11419	Metagenomics	1103851	United States of America	Male	63	25.71		D006262	1	1
+ERR2239556	PRJEB11419	Metagenomics	955406	United States of America	Male	59	23.99		D006262	1	1
+ERR2239571	PRJEB11419	Metagenomics	1012724	United States of America	Female	27	22.41		D013959	1	7
+ERR2239572	PRJEB11419	Metagenomics	962238	United States of America	Female	27	22.41		D013959	1	7
+ERR2239576	PRJEB11419	Metagenomics	1193730	United States of America	Female	46	32.12		D013959	1	3
+ERR2239577	PRJEB11419	Metagenomics	729376	United States of America	Male	45	21.29		D006262	1	1
+ERR2239578	PRJEB11419	Metagenomics	704351	United States of America	Female	56	25.5		D006262	1	1
+ERR2239579	PRJEB11419	Metagenomics	655183	United States of America	Female	22	21.14		D006262	1	1
+ERR2239582	PRJEB11419	Metagenomics	448864	United States of America	Female	60	23.57		D006262	1	1
+ERR2239583	PRJEB11419	Metagenomics	1748817	United Kingdom	Male	32	25.48		D006262	1	1
+ERR2239584	PRJEB11419	Metagenomics	494707	United Kingdom	Female	13	19.02		D006262	1	1
+ERR2239585	PRJEB11419	Metagenomics	714649	United Kingdom	Female	57	27.04		D006262	1	1
+ERR2239586	PRJEB11419	Metagenomics	472759	United States of America	Male	58	23.09		D006262	1	1
+ERR2239590	PRJEB11419	Metagenomics	1227956	United Kingdom	Male	28	20.45		D006262	1	1
+ERR2239595	PRJEB11419	Metagenomics	763925	United States of America	Female	20	19.58		D006262	1	1
+ERR2239596	PRJEB11419	Metagenomics	936732	United States of America	Male	21	25.83		D006262	1	1
+ERR2239597	PRJEB11419	Metagenomics	1759663	United States of America	Female	44	21.63		D013959	1	4
+ERR2239599	PRJEB11419	Metagenomics	973291	United States of America	Male	48	22.67		D006262	1	1
+ERR2239603	PRJEB11419	Metagenomics	1157436	United Kingdom	Female	32	26.03		D013959	1	4
+ERR2239604	PRJEB11419	Metagenomics	1154001	United Kingdom	Male	44	21.63		D006262	1	1
+ERR2239606	PRJEB11419	Metagenomics	1284134	United Kingdom	Male	55	24.68		D006262	1	1
+ERR2239610	PRJEB11419	Metagenomics	332391	United Kingdom	Male	38	27.74		D006262	1	1
+ERR2239613	PRJEB11419	Metagenomics	954796	United Kingdom	Female	50	21.28		D006262	1	1
+ERR2239615	PRJEB11419	Metagenomics	1374433	United Kingdom	Female	50	22.68		D006262	1	1
+ERR2239620	PRJEB11419	Metagenomics	1108736	United Kingdom	Female	57	20.12		D013959	1	2
+ERR2239623	PRJEB11419	Metagenomics	571141	United Kingdom	Female	62	19.71		D006262	1	1
+ERR2239627	PRJEB11419	Metagenomics	1002170	United Kingdom	Female	36	18.18		D006262	1	1
+ERR2239629	PRJEB11419	Metagenomics	649214	United Kingdom	Male	55	29.27		D006262	1	1
+ERR2239630	PRJEB11419	Metagenomics	889109	United Kingdom	Female	24	19.57		D006262	1	1
+ERR2239632	PRJEB11419	Metagenomics	1143831	United Kingdom	Female	52	19.68		D006262	1	1
+ERR2239633	PRJEB11419	Metagenomics	923017	United Kingdom	Female	46	25.86		D006262	1	1
+ERR2239634	PRJEB11419	Metagenomics	944302	United Kingdom	Male	44	24.49		D006262	1	1
+ERR2239635	PRJEB11419	Metagenomics	793743	United States of America	Female	30	19.14		D006262	1	1
+ERR2239636	PRJEB11419	Metagenomics	653928	United States of America	Female	39	20.6		D006262	1	1
+ERR2239639	PRJEB11419	Metagenomics	627015	United States of America	Male	46	22.47		D006262	1	1
+ERR2239640	PRJEB11419	Metagenomics	1193937	United States of America	Female	54	21.63		D006262	1	1
+ERR2239642	PRJEB11419	Metagenomics	903950	United States of America	Female	65	17.11		D006262	1	1
+ERR2239645	PRJEB11419	Metagenomics	586364	United States of America	Female	58	23.34		D006262	1	1
+ERR2239647	PRJEB11419	Metagenomics	595165	United Kingdom	Female	63	31.79		D013959	1	3
+ERR2239648	PRJEB11419	Metagenomics	941527	United Kingdom	Female	59	20.99		D006262	1	1
+ERR2239650	PRJEB11419	Metagenomics	1405989	United States of America	Female	52	22.31		D013959	1	2
+ERR2239654	PRJEB11419	Metagenomics	1330254	United States of America	Female	21	19.3		D013959	1	2
+ERR2239662	PRJEB11419	Metagenomics	889984	United Kingdom	Female	42	28.6		D013959	1	3
+ERR2239664	PRJEB11419	Metagenomics	989358	United Kingdom	Female	23	26.61		D013959	1	4
+ERR2239668	PRJEB11419	Metagenomics	1391682	United Kingdom	Female	55	30.42		D013959	1	4
+ERR2239669	PRJEB11419	Metagenomics	431459	United Kingdom	Male	36	30.19		D006262	1	1
+ERR2239674	PRJEB11419	Metagenomics	771303	United Kingdom	Female	35	24.45		D006262	1	1
+ERR2239675	PRJEB11419	Metagenomics	1099338	United Kingdom	Male	58	25.97		D006262	1	1
+ERR2239677	PRJEB11419	Metagenomics	822437	United Kingdom	Female	49	33.2		D006262	1	1
+ERR2239679	PRJEB11419	Metagenomics	616263	United Kingdom	Female	53	23.69		D013959	1	3
+ERR2239685	PRJEB11419	Metagenomics	544072	United Kingdom	Male	66	20.28		D006262	1	1
+ERR2239691	PRJEB11419	Metagenomics	628176	United Kingdom	Female	30	22.15		D013959	1	3
+ERR2239703	PRJEB11419	Metagenomics	1006727	United Kingdom	Male	39	22.78		D006262	1	1
+ERR2239708	PRJEB11419	Metagenomics	781484	United Kingdom	Female	66	20.32		D006262	1	1
+ERR2239709	PRJEB11419	Metagenomics	2469368	United Kingdom	Female	47	28.31		D013959	1	3
+ERR2239710	PRJEB11419	Metagenomics	829243	United Kingdom	Female	47	28.31		D013959	1	3
+ERR2239711	PRJEB11419	Metagenomics	794450	United Kingdom	Female	53	28.06		D006262	1	1
+ERR2239712	PRJEB11419	Metagenomics	733927	United States of America	Female	60	24.69		D013959	1	1
+ERR2239713	PRJEB11419	Metagenomics	98404	United States of America	Female	58	25.18		D013959	1	3
+ERR2239715	PRJEB11419	Metagenomics	603207	United States of America	Female	42	18.13		D006262	1	1
+ERR2239716	PRJEB11419	Metagenomics	907525	United States of America	Female	51	27.6		D013959	1	4
+ERR2239717	PRJEB11419	Metagenomics	389070	United States of America	Female	52	35.65		D006262	1	1
+ERR2239718	PRJEB11419	Metagenomics	910747	United States of America	Female	57	22.6		D006262	1	1
+ERR2239723	PRJEB11419	Metagenomics	633249	United States of America	Female	29	25.75		D013959	1	2
+ERR2239726	PRJEB11419	Metagenomics	674724	United States of America	Male	66	22.69		D006262	1	1
+ERR2239731	PRJEB11419	Metagenomics	438533	United States of America	Female	60	23.26		D006262	1	1
+ERR2239732	PRJEB11419	Metagenomics	927850	United States of America	Female	34	22.5		D006262	1	1
+ERR2239734	PRJEB11419	Metagenomics	687021	United States of America	Female	63	18.37		D006262	1	1
+ERR2239735	PRJEB11419	Metagenomics	839837	United States of America	Male	52	22.04		D006262	1	1
+ERR2239736	PRJEB11419	Metagenomics	916679	United States of America	Male	64	28.48		D006262	1	1
+ERR2239737	PRJEB11419	Metagenomics	648729	United States of America	Female	55	20.98		D013959	1	3
+ERR2239738	PRJEB11419	Metagenomics	1176019	United States of America	Female	57	26.63		D006262	1	1
+ERR2239739	PRJEB11419	Metagenomics	1480713	United States of America	Male	57	27.71		D006262	1	1
+ERR2239742	PRJEB11419	Metagenomics	777357	United States of America	Female	55	31.62		D006262	1	1
+ERR2239743	PRJEB11419	Metagenomics	310347	United States of America	Male	62	25.1		D006262	1	1
+ERR2239746	PRJEB11419	Metagenomics	1143751	United States of America	Female	50	26.63		D013959	1	6
+ERR2239750	PRJEB11419	Metagenomics	823615	United Kingdom	Female	66	24.2		D013959	1	5
+ERR2239755	PRJEB11419	Metagenomics	624607	United Kingdom	Female	48	23.71		D006262	1	1
+ERR2239759	PRJEB11419	Metagenomics	729593	United Kingdom	Female	63	27.62		D006262	1	1
+ERR2239760	PRJEB11419	Metagenomics	1992570	United States of America	Male	36	20.53		D006262	1	1
+ERR2239761	PRJEB11419	Metagenomics	500015	United States of America	Male	52	22.45		D006262	1	1
+ERR2239763	PRJEB11419	Metagenomics	740688	United States of America	Male	40	22.32		D006262	1	1
+ERR2239767	PRJEB11419	Metagenomics	484750	United States of America	Female	37	22.67		D006262	1	1
+ERR2239770	PRJEB11419	Metagenomics	694307	United Kingdom	Female	33	23.44		D006262	1	1
+ERR2239771	PRJEB11419	Metagenomics	1052273	United States of America	Male	37	23.63		D006262	1	1
+ERR2239773	PRJEB11419	Metagenomics	1117972	United States of America	Female	45	22.31		D013959	1	1
+ERR2239775	PRJEB11419	Metagenomics	981758	United States of America	Female	37	21.28		D013959	1	4
+ERR2239780	PRJEB11419	Metagenomics	721089	United States of America	Female	58	22.89		D006262	1	1
+ERR2239781	PRJEB11419	Metagenomics	834322	United States of America	Female	29	23.49		D006262	1	1
+ERR2239783	PRJEB11419	Metagenomics	1032658	United States of America	Female	49	21.61		D013959	1	1
+ERR2239784	PRJEB11419	Metagenomics	693071	United States of America	Male	46	39.05		D006262	1	1
+ERR2239787	PRJEB11419	Metagenomics	925469	United States of America	Female	57	34.39		D006262	1	1
+ERR2239789	PRJEB11419	Metagenomics	1365550	United States of America	Female	36	21		D013959	1	4
+ERR2239790	PRJEB11419	Metagenomics	1515045	United States of America	Male	50	31.14		D006262	1	1
+ERR2239792	PRJEB11419	Metagenomics	735096	United States of America	Female	68	30.34		D013959	1	2
+ERR2239795	PRJEB11419	Metagenomics	972902	United States of America	Female	64	30.9		D013959	1	1
+ERR2239796	PRJEB11419	Metagenomics	1021237	United States of America	Male	32	28.13		D006262	1	1
+ERR2239799	PRJEB11419	Metagenomics	619392	United States of America	Male	62	26.58		D006262	1	1
+ERR2239801	PRJEB11419	Metagenomics	1041187	United States of America	Male	59	25.1		D006262	1	1
+ERR2239802	PRJEB11419	Metagenomics	893249	United States of America	Female	55	27.46		D013959	1	1
+ERR2239803	PRJEB11419	Metagenomics	740694	United States of America	Male	44	29.43		D006262	1	1
+ERR2239804	PRJEB11419	Metagenomics	698186	United States of America	Female	48	25.61		D006262	1	1
+ERR2239809	PRJEB11419	Metagenomics	557113	United States of America	Female	64	18.25		D006262	1	1
+ERR2241994	PRJEB11419	Metagenomics	1289112	United States of America	Female	59	20.07		D013959	1	5
+ERR2242031	PRJEB11419	Metagenomics	839450	United Kingdom	Male	45	22.23		D006262	1	1
+ERR2242032	PRJEB11419	Metagenomics	974763	Australia	Female	56	26.67		D013959	1	1
+ERR2242033	PRJEB11419	Metagenomics	1333828	Australia	Female	56	26.67		D013959	1	1
+ERR2242035	PRJEB11419	Metagenomics	1182500	Australia	Female	61	21.95		D013959	1	2
+ERR2242043	PRJEB11419	Metagenomics	1499586	United Kingdom	Female	31	19.32		D006262	1	1
+ERR2242044	PRJEB11419	Metagenomics	108228	United Kingdom	Male	45	16.71		D006262	1	1
+ERR2242048	PRJEB11419	Metagenomics	1426903	United States of America	Female	51	22.89		D013959	1	5
+ERR2242050	PRJEB11419	Metagenomics	674389	United Kingdom	Male	63	25.25		D006262	1	1
+ERR2242051	PRJEB11419	Metagenomics	793840	United Kingdom	Female	72	24.61		D006262	1	1
+ERR2242055	PRJEB11419	Metagenomics	1060800	United Kingdom	Female	61	26.29		D013959	1	5
+ERR2242059	PRJEB11419	Metagenomics	404682	United Kingdom	Male	45	26.87		D006262	1	1
+ERR2242060	PRJEB11419	Metagenomics	101152	United Kingdom	Male	31	21.47		D006262	1	1
+ERR2242061	PRJEB11419	Metagenomics	1375227	Australia	Male	72	25.48		D006262	1	1
+ERR2242071	PRJEB11419	Metagenomics	1315016	United Kingdom	Male	0	15.01		D006262	1	1
+ERR2242072	PRJEB11419	Metagenomics	1547111	United Kingdom	Female	63	23.71		D013959	1	1
+ERR2242074	PRJEB11419	Metagenomics	710911	Germany	Male	58	24.57		D006262	1	1
+ERR2242077	PRJEB11419	Metagenomics	1226746	United Kingdom	Male	54	25.38		D006262	1	1
+ERR2242079	PRJEB11419	Metagenomics	951661	United Kingdom	Female	66	26.21		D006262	1	1
+ERR2242086	PRJEB11419	Metagenomics	1570983	United Kingdom	Female	34	18.56		D013959	1	1
+ERR2242089	PRJEB11419	Metagenomics	1084071	United Kingdom	Female	58	17.68		D013959	1	1
+ERR2242091	PRJEB11419	Metagenomics	166786	Germany	Male	32	22.72		D006262	1	1
+ERR2242103	PRJEB11419	Metagenomics	38429	United Kingdom	Female	37	23.24		D006262	1	1
+ERR2242107	PRJEB11419	Metagenomics	1575612	United States of America	Female	22	21.14		D006262	1	1
+ERR2242112	PRJEB11419	Metagenomics	1254771	United States of America	Male	57	21.93		D013959	1	2
+ERR2242115	PRJEB11419	Metagenomics	713053	United Kingdom	Female	28	23.84		D006262	1	1
+ERR2242121	PRJEB11419	Metagenomics	868353	United Kingdom	Female	64	19.47		D006262	1	1
+ERR2242129	PRJEB11419	Metagenomics	818040	Sweden	Male	35	22.64		D006262	1	1
+ERR2242136	PRJEB11419	Metagenomics	1139999	United States of America	Male	63	32.08		D006262	1	1
+ERR2242137	PRJEB11419	Metagenomics	939141	United States of America	Male	68	21.29		D006262	1	1
+ERR2242142	PRJEB11419	Metagenomics	1304079	United States of America	Female	47	20.37		D006262	1	1
+ERR2242155	PRJEB11419	Metagenomics	1057086	United States of America	Female	50	22.24		D006262	1	1
+ERR2242156	PRJEB11419	Metagenomics	1251791	United States of America	Male	66	25.77		D006262	1	1
+ERR2242464	PRJEB11419	Metagenomics	2083686	Australia	Female	56	26.67		D013959	1	1
+ERR2242465	PRJEB11419	Metagenomics	3589091	Australia	Female	56	26.67		D013959	1	1
+ERR2242466	PRJEB11419	Metagenomics	3393138	Australia	Female	56	26.67		D013959	1	1
+ERR2242468	PRJEB11419	Metagenomics	1781963	Australia	Female	61	21.95		D013959	1	2
+ERR2242469	PRJEB11419	Metagenomics	1801568	Australia	Male	64	26.28		D006262	1	1
+ERR2242471	PRJEB11419	Metagenomics	2721201	United States of America	Male	59	23.53		D006262	1	1
+ERR2242472	PRJEB11419	Metagenomics	2577444	United States of America	Female	38	41.27		D013959	1	1
+ERR2242474	PRJEB11419	Metagenomics	2892025	United States of America	Female	51	22.89		D013959	1	5
+ERR2242476	PRJEB11419	Metagenomics	2539346	Australia	Male	72	25.48		D006262	1	1
+ERR2242477	PRJEB11419	Metagenomics	3187874	Germany	Male	58	24.57		D006262	1	1
+ERR2242478	PRJEB11419	Metagenomics	3336145	United Kingdom	Female	66	26.21		D006262	1	1
+ERR2242480	PRJEB11419	Metagenomics	2476043	United States of America	Male	67	25.85		D006262	1	1
+ERR2242484	PRJEB11419	Metagenomics	2993954	United States of America	Female	22	21.14		D006262	1	1
+ERR2242488	PRJEB11419	Metagenomics	1722605	United States of America	Female	29	21.97		D006262	1	1
+ERR2242491	PRJEB11419	Metagenomics	5700430	United States of America	Male	57	21.93		D013959	1	2
+ERR2242496	PRJEB11419	Metagenomics	61749	United States of America	Female	38	20.36		D006262	1	1
+ERR2242501	PRJEB11419	Metagenomics	1853437	United States of America	Female	28	18.48		D006262	1	1
+ERR2242504	PRJEB11419	Metagenomics	4627199	United States of America	Female	59	21.61		D006262	1	1
+ERR2242507	PRJEB11419	Metagenomics	3314358	United States of America	Male	31	23.29		D006262	1	1
+ERR2242509	PRJEB11419	Metagenomics	2117375	United States of America	Male	63	32.08		D006262	1	1
+ERR2242510	PRJEB11419	Metagenomics	3700582	United States of America	Male	68	21.29		D006262	1	1
+ERR2242513	PRJEB11419	Metagenomics	3175397	United States of America	Male	43	20.53		D006262	1	1
+ERR2242516	PRJEB11419	Metagenomics	3499703	United States of America	Female	47	20.37		D006262	1	1
+ERR2242522	PRJEB11419	Metagenomics	2638466	United States of America	Female	50	0		D006262	1	1
+ERR2242525	PRJEB11419	Metagenomics	137233	United States of America	Male	26	21.77		D006262	1	1
+ERR2242526	PRJEB11419	Metagenomics	565498	United States of America	Female	23	22.86		D006262	1	1
+ERR2242535	PRJEB11419	Metagenomics	1889133	United States of America	Male	24	20.54		D006262	1	1
+ERR2242537	PRJEB11419	Metagenomics	1589735	United States of America	Female	56	17.51		D006262	1	1
+ERR2242538	PRJEB11419	Metagenomics	3017893	United States of America	Female	50	22.24		D006262	1	1
+ERR2242540	PRJEB11419	Metagenomics	2278612	United States of America	Male	28	23.12		D006262	1	1
+ERR2242541	PRJEB11419	Metagenomics	222921	United States of America	Male	66	25.77		D006262	1	1
+ERR2242543	PRJEB11419	Metagenomics	1215034	United States of America	Female	46	19.58		D006262	1	1
+ERR2242545	PRJEB11419	Metagenomics	2349404	United States of America	Male	25	22.24		D006262	1	1
+ERR2242549	PRJEB11419	Metagenomics	2412115	United States of America	Female	27	18.37		D006262	1	1
+ERR2242551	PRJEB11419	Metagenomics	2034233	United States of America	Male	34	21.68		D006262	1	1
