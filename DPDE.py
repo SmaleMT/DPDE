@@ -232,9 +232,15 @@ class DPDE:
 
         # Construct similarity weight matrix W^S, using average score combination method
         weight_similarity = np.zeros((n_candidates, n_candidates))
-        for p in range(n_candidates):
+                for p in range(n_candidates):
             for q in range(n_candidates):
-                weight_similarity[p, q] = np.sqrt(similarity[p] * similarity[q])
+                if p == q:
+                    weight_similarity[p, q] = 1.0
+                else:
+                    sim_p = similarity[p]
+                    sim_q = similarity[q]
+                    denominator = sim_p + sim_q + epsilon
+                    weight_similarity[p, q] = (2 * sim_p * sim_q) / denominator
 
 
         # Comprehensive weight matrix (dynamically adjust alpha)
