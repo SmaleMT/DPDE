@@ -125,11 +125,19 @@ class DPDE:
         quantiles = np.quantile(combined_scores, [0.25, 0.75])
         iqr = quantiles[1] - quantiles[0]
         scaled_scores = (combined_scores - quantiles[0]) / (iqr + 1e-8)
-        selection_probs = np.clip(scaled_scores, 0, 1)
+
+        selection_probs = np.maximum(scaled_scores, 1e-8)
         selection_probs /= selection_probs.sum()
 
-        # Importance sampling
         n_minority = counts[minority_class]
+        n_needed = n_minority
+        if np.count_nonzero(selection_probs > 0) < n_needed:
+            top_k_idx = np.argsort(combined_scores)[::-1][:n_needed]
+            selection_probs[:] = 0
+            selection_probs[top_k_idx] = 1.0
+            selection_probs /= selection_probs.sum()
+
+        # Importance sampling
         selected_idx = np.random.choice(len(majority_samples),
                                         size=n_minority,
                                         p=selection_probs,
@@ -193,6 +201,7 @@ class DPDE:
             indices_candidates.append(selected_indices)
         n_candidates = len(indices_candidates)
         # Calculate diversity weight matrix
+        epsilon = 1e-8
         weight_diversity = np.zeros((n_candidates, n_candidates))
         for p in range(n_candidates):
             for q in range(n_candidates):
@@ -232,13 +241,17 @@ class DPDE:
 
         # Construct similarity weight matrix W^S, using average score combination method
         weight_similarity = np.zeros((n_candidates, n_candidates))
-                for p in range(n_candidates):
+        for p in range(n_candidates):
             for q in range(n_candidates):
                 if p == q:
+                    # 对角线元素设为1（子集与自身完全相似）
                     weight_similarity[p, q] = 1.0
                 else:
+                    # 使用调和平均公式
                     sim_p = similarity[p]
                     sim_q = similarity[q]
+
+                    # 调和平均：2*sim_p*sim_q/(sim_p + sim_q)
                     denominator = sim_p + sim_q + epsilon
                     weight_similarity[p, q] = (2 * sim_p * sim_q) / denominator
 
