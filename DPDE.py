@@ -244,14 +244,11 @@ class DPDE:
         for p in range(n_candidates):
             for q in range(n_candidates):
                 if p == q:
-                    # 对角线元素设为1（子集与自身完全相似）
                     weight_similarity[p, q] = 1.0
                 else:
-                    # 使用调和平均公式
                     sim_p = similarity[p]
                     sim_q = similarity[q]
 
-                    # 调和平均：2*sim_p*sim_q/(sim_p + sim_q)
                     denominator = sim_p + sim_q + epsilon
                     weight_similarity[p, q] = (2 * sim_p * sim_q) / denominator
 
